@@ -1,6 +1,5 @@
 
- 
-  var data = "aaabcddd";
+  var data = "eexxxzzz";
   var n = data.length;
  var temp = data[0];
   var res = "";
@@ -10,4 +9,4 @@
   }
   res += data[i];
   }
- console.log(res);
+console.log(res);
